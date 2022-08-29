@@ -9,7 +9,7 @@
   },
   "permissions": ["activeTab", "scripting"],
   "action": {
-    "default_title": "Let's go to draw!",
+    "default_title": "고고링",
     "default_icon": "dice.png"
   }
 }
