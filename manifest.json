@@ -10,6 +10,7 @@
   "permissions": ["activeTab", "scripting"],
   "action": {
     "default_title": "고고링",
-    "default_icon": "dice.png"
+    "default_icon": "dice.png",
+    "default_popup": "popup.html"
   }
 }
